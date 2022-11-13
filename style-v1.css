@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* fais rentrer le calcul des border/padding dans la box */
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  padding: 15px;
+  border: 2px solid #576c7f;
+}
+#bloc_page {
+  background-color: #c5e0b5;
+  height: 98%;
+  width: 100%;
+  padding: 15px;
+  border: 2px solid #576c7f;
+}
+header {
+  background-color: #d9d9d9;
+  height: 20%;
+  width: 100%;
+  padding: 15px;
+  border: 2px solid #576c7f;
+}
+#titre_principal {
+  background-color: #adb8cb;
+  height: 45%;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid #576c7f;
+}
+nav {
+  background-color: #fbe5d6;
+  height: 45%;
+  width: 100%;
+  border: 2px solid #576c7f;
+}
+main {
+  height: 50%;
+  width: 100%;
+  margin: 15px 0;
+  border: none;
+}
+#banniere_image {
+  background-color: #45b3ed;
+  height: 15%;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid #576c7f;
+}
+section {
+  background-color: #fef851;
+  height: 80%;
+  width: 100%;
+  padding: 15px;
+  border: 2px solid #576c7f;
+}
+article {
+  background-color: #f4b184;
+  height: 75%;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid #576c7f;
+}
+aside {
+  background-color: #92d04f;
+  height: 20%;
+  width: 100%;
+  border: 2px solid #576c7f;
+}
+footer {
+  background-color: #50af52;
+  height: 25%;
+  width: 100%;
+  padding: 15px;
+  border: 2px solid #576c7f;
+}
+#tweet {
+  background-color: #9dc3e7;
+  height: 30%;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid #576c7f;
+}
+#mes_photos {
+  background-color: #f8c045;
+  height: 30%;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid #576c7f;
+}
+#mes_amis {
+  background-color: #a6a6a6;
+  height: 30%;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid #576c7f;
+}
